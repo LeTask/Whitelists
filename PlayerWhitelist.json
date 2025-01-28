@@ -1,0 +1,30 @@
+{
+  "WhitelistedUsers": {
+      "919665092025528441": {
+          "hash": "nil",
+          "attackable": false,
+          "level": 1,
+          "tags": [
+              {
+                  "text": "Taskware Owner",
+                  "color": [185, 185, 185]
+              }
+          ]
+      }
+  },
+  "WhitelistedTags": {
+      "1284641374787866666": [
+          {
+              "text": "Taskware Owner",
+              "color": [185, 185, 185]
+          }
+      ]
+  },
+  "BlacklistedUsers": {},
+  "Announcement": {
+      "text": "Hello!",
+      "expiretime": 1735592054.4304218,
+      "targets": "all"
+  },
+  "KillVape": false
+}
