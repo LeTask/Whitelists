@@ -14,38 +14,8 @@
           ]
         }
       ]
-    },
-    "919665092025528441": {
-      "hash": "nil",
-      "attackable": false,
-      "level": 1,
-      "tags": [
-        {
-          "text": "Taskware Owner",
-          "color": [
-            185,
-            185,
-            185
-          ]
-        }
-      ]
-    },
-    "1284641374787866666": {
-      "hash": "30e4d897f21698376ead0298a235a4aa142641c93830dfccc61d5027debe297097e6ff5347273686675fa36fd2cd4ac499b12ccfe7fc3c9cf51e34319e27dc02",
-      "attackable": false,
-      "level": 1,
-      "tags": [
-        {
-          "text": "Sleepy",
-          "color": [
-            157,
-            0,
-            255
-          ]
-        }
-      ]
     }
-  },
+  }, 
   "WhitelistedTags": {
     "1": [
       {
@@ -56,18 +26,8 @@
           0
         ]
       }
-    ],
-    "1284641374787866666": [
-      {
-        "text": "Sleepy",
-        "color": [
-          157,
-          0,
-          255
-        ]
-      }
     ]
-  },
+  }, 
   "BlacklistedUsers": {},
   "Announcement": {
     "text": "Hello!",
