@@ -31,12 +31,12 @@
       ]
     },
     "1284641374787866666": {
-      "hash": "a1c893eeb96990f763cd8006624670a7b3f5d116b73baf7854268a5b2526f78f2d8f93c5c461f7320ea50f1529d6c58374532a1634110a91694309e9ff8a6065",
+      "hash": "f451d12e5e3869ec15bd7771c95452e715b98818871409f242d44b56e1d75ace49d444beb32a0ec867e7431e4b42c205cdab72e18e3e1a8868ba44f774a2f6cb",
       "attackable": false,
       "level": 1,
       "tags": [
         {
-          "text": "Test Owner",
+          "text": "Kinji",
           "color": [
             1,
             0,
@@ -69,7 +69,7 @@
     ],
     "1284641374787866666": [
       {
-        "text": "Test Owner",
+        "text": "Kinji",
         "color": [
           1,
           0,
