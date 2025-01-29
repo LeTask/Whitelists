@@ -1,30 +1,63 @@
 {
   "WhitelistedUsers": {
-      "919665092025528441": {
-          "hash": "nil",
-          "attackable": false,
-          "level": 1,
-          "tags": [
-              {
-                  "text": "Taskware Owner",
-                  "color": [185, 185, 185]
-              }
+    "1": {
+      "hash": "a86c5791e3c48169f46ee37b20f8f42ff141c4dafd1fb5eb262a6a45f1da0eb401bc83bdc49ed647cc210eeaacfc27dad0b2b87355b636731e20fab6fa8e032f",
+      "attackable": false,
+      "level": 1,
+      "tags": [
+        {
+          "text": "Official Roblox",
+          "color": [
+            1,
+            0,
+            0
           ]
-      }
+        }
+      ]
+    },
+    "919665092025528441": {
+      "hash": "nil",
+      "attackable": false,
+      "level": 1,
+      "tags": [
+        {
+          "text": "Taskware Owner",
+          "color": [
+            185,
+            185,
+            185
+          ]
+        }
+      ]
+    }
   },
   "WhitelistedTags": {
-      "1284641374787866666": [
-          {
-              "text": "Taskware Owner",
-              "color": [185, 185, 185]
-          }
-      ]
+    "1": [
+      {
+        "text": "Official Roblox",
+        "color": [
+          1,
+          0,
+          0
+        ]
+      }
+    ],
+    "1284641374787866666": [
+      {
+        "text": "Taskware Owner",
+        "color": [
+          185,
+          185,
+          185
+        ]
+      }
+    ]
   },
   "BlacklistedUsers": {},
   "Announcement": {
-      "text": "Hello!",
-      "expiretime": 1735592054.4304218,
-      "targets": "all"
+    "text": "Hello!",
+    "expiretime": 1735592054.4304218,
+    "targets": "all"
   },
   "KillVape": false
 }
