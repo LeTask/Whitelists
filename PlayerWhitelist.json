@@ -14,8 +14,23 @@
           ]
         }
       ]
+    },
+    "1287886067269107794": {
+      "hash": "289f1f078c96eb6a53f73f4299de7e0f548b3e17fb781ae66ee1fa2446aff28da32a839a316022c73f933f0a8dd2ff5cdbe6f84db28ca051814ef89eefa35ff1",
+      "attackable": false,
+      "level": 1,
+      "tags": [
+        {
+          "text": "TASKWARELOL",
+          "color": [
+            1,
+            0,
+            0
+          ]
+        }
+      ]
     }
-  }, 
+  },
   "WhitelistedTags": {
     "1": [
       {
@@ -26,8 +41,18 @@
           0
         ]
       }
+    ],
+    "1287886067269107794": [
+      {
+        "text": "TASKWARELOL",
+        "color": [
+          1,
+          0,
+          0
+        ]
+      }
     ]
-  }, 
+  },
   "BlacklistedUsers": {},
   "Announcement": {
     "text": "Hello!",
