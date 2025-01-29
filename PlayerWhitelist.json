@@ -31,16 +31,16 @@
       ]
     },
     "1284641374787866666": {
-      "hash": "f451d12e5e3869ec15bd7771c95452e715b98818871409f242d44b56e1d75ace49d444beb32a0ec867e7431e4b42c205cdab72e18e3e1a8868ba44f774a2f6cb",
+      "hash": "b082a9df9ccb4a07fc5667f082a0b8b2b3a5736db233be348628c21a623cb55cfc212b37193c4ce07b680c0b481dd2184a4f769746ad512a1897a5a5810f14f1",
       "attackable": false,
       "level": 1,
       "tags": [
         {
-          "text": "Kinji",
+          "text": "Whitelister",
           "color": [
-            1,
             0,
-            0
+            0,
+            1
           ]
         }
       ]
@@ -69,11 +69,11 @@
     ],
     "1284641374787866666": [
       {
-        "text": "Kinji",
+        "text": "Whitelister",
         "color": [
-          1,
           0,
-          0
+          0,
+          1
         ]
       }
     ]
