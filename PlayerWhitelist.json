@@ -31,16 +31,16 @@
       ]
     },
     "1284641374787866666": {
-      "hash": "b082a9df9ccb4a07fc5667f082a0b8b2b3a5736db233be348628c21a623cb55cfc212b37193c4ce07b680c0b481dd2184a4f769746ad512a1897a5a5810f14f1",
+      "hash": "a1c893eeb96990f763cd8006624670a7b3f5d116b73baf7854268a5b2526f78f2d8f93c5c461f7320ea50f1529d6c58374532a1634110a91694309e9ff8a6065",
       "attackable": false,
       "level": 1,
       "tags": [
         {
-          "text": "Whitelister",
+          "text": "Test Owner 0.1",
           "color": [
+            1,
             0,
-            0,
-            1
+            0
           ]
         }
       ]
@@ -69,11 +69,11 @@
     ],
     "1284641374787866666": [
       {
-        "text": "Whitelister",
+        "text": "Test Owner 0.1",
         "color": [
+          1,
           0,
-          0,
-          1
+          0
         ]
       }
     ]
